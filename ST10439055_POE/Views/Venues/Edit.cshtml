@@ -1,0 +1,122 @@
+﻿@model ST10439055_POE.Models.Venue
+@{
+    ViewData["Title"] = "Edit Venue";
+}
+
+<div class="container mt-4">
+    <div class="row">
+        <div class="col-md-8 mx-auto">
+            <div class="card shadow">
+                <div class="card-header bg-danger text-white">
+                    <h4 class="mb-0">
+                        <i class="fas fa-edit me-2"></i>Edit Venue
+                    </h4>
+                </div>
+                <div class="card-body">
+                    <form asp-action="Edit" enctype="multipart/form-data" class="needs-validation" novalidate>
+                        <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+                        <input type="hidden" asp-for="VenueId" />
+                        <input type="hidden" asp-for="ImageUrl" />
+
+                        <div class="mb-3">
+                            <label asp-for="VenueName" class="form-label fw-bold">
+                                <i class="fas fa-building me-1"></i>Venue Name
+                            </label>
+                            <input asp-for="VenueName" class="form-control" required />
+                            <span asp-validation-for="VenueName" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Location" class="form-label fw-bold">
+                                <i class="fas fa-map-marker-alt me-1"></i>Location
+                            </label>
+                            <input asp-for="Location" class="form-control" required />
+                            <span asp-validation-for="Location" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Capacity" class="form-label fw-bold">
+                                <i class="fas fa-users me-1"></i>Capacity
+                            </label>
+                            <input asp-for="Capacity" class="form-control" type="number" min="1" required />
+                            <span asp-validation-for="Capacity" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-4">
+                            <label asp-for="ImageFile" class="form-label fw-bold">
+                                <i class="fas fa-image me-1"></i>Venue Image
+                            </label>
+                            <input asp-for="ImageFile" class="form-control" type="file" accept="image/*" />
+                            <span asp-validation-for="ImageFile" class="text-danger"></span>
+                            <div class="form-text">Select a new image to replace the current one (optional).</div>
+
+                            <div id="imagePreviewContainer" class="mt-2">
+                                @if (!string.IsNullOrEmpty(Model.ImageUrl))
+                                {
+                                    <p>Current Image:</p>
+                                    <img src="@Model.ImageUrl" id="currentImage" alt="Current Venue Image"
+                                         class="img-fluid border rounded mb-2" style="max-height: 200px;" />
+                                }
+                                <img id="imagePreview" class="img-fluid border rounded d-none" style="max-height: 200px;" />
+                            </div>
+                        </div>
+
+                        <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+                            <a asp-action="Index" class="btn btn-outline-secondary me-md-2">
+                                <i class="fas fa-arrow-left me-1"></i> Back to List
+                            </a>
+                            <button type="submit" class="btn btn-danger">
+                                <i class="fas fa-save me-1"></i> Save Changes
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script>
+        // Client-side validation and image preview
+        (function () {
+            'use strict';
+
+            // Initialize form validation
+            var forms = document.querySelectorAll('.needs-validation');
+            Array.prototype.slice.call(forms)
+                .forEach(function (form) {
+                    form.addEventListener('submit', function (event) {
+                        if (!form.checkValidity()) {
+                            event.preventDefault();
+                            event.stopPropagation();
+                        }
+                        form.classList.add('was-validated');
+                    }, false);
+                });
+
+            // Image preview functionality
+            document.getElementById('ImageFile').addEventListener('change', function (e) {
+                var file = this.files[0];
+                if (file) {
+                    var reader = new FileReader();
+                    reader.onload = function (e) {
+                        var preview = document.getElementById('imagePreview');
+                        preview.src = e.target.result;
+                        preview.classList.remove('d-none');
+
+                        // Hide current image if a new one is selected
+                        var currentImage = document.getElementById('currentImage');
+                        if (currentImage) {
+                            currentImage.classList.add('d-none');
+                        }
+                    };
+                    reader.readAsDataURL(file);
+                }
+            });
+        })();
+    </script>
+}

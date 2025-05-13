@@ -1,0 +1,83 @@
+﻿@model ST10439055_POE.Models.Bookings
+@{
+    ViewData["Title"] = "Create New Booking";
+}
+
+<div class="container mt-4">
+    <div class="row">
+        <div class="col-md-8 mx-auto">
+            <div class="card shadow">
+                <div class="card-header bg-primary text-white">
+                    <h4 class="mb-0">
+                        <i class="fas fa-plus-circle me-2"></i>Create New Booking
+                    </h4>
+                </div>
+                <div class="card-body">
+                    <partial name="_AlertMessages" />
+                    <form asp-action="Create" class="needs-validation" novalidate>
+                        <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+
+                        <div class="mb-3">
+                            <label asp-for="EventId" class="form-label fw-bold">
+                                <i class="fas fa-star me-1"></i>Event
+                            </label>
+                            <select asp-for="EventId" class="form-select" asp-items="ViewBag.EventId" required>
+                                <option value="">-- Select Event --</option>
+                            </select>
+                            <span asp-validation-for="EventId" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="VenueId" class="form-label fw-bold">
+                                <i class="fas fa-map-marker-alt me-1"></i>Venue
+                            </label>
+                            <select asp-for="VenueId" class="form-select" asp-items="ViewBag.VenueId" required>
+                                <option value="">-- Select Venue --</option>
+                            </select>
+                            <span asp-validation-for="VenueId" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-4">
+                            <label asp-for="BookingDate" class="form-label fw-bold">
+                                <i class="fas fa-calendar-day me-1"></i>Booking Date
+                            </label>
+                            <input asp-for="BookingDate" class="form-control" type="datetime-local" required />
+                            <span asp-validation-for="BookingDate" class="text-danger"></span>
+                        </div>
+
+                        <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+                            <a asp-action="Index" class="btn btn-outline-secondary me-md-2">
+                                <i class="fas fa-arrow-left me-1"></i> Back to List
+                            </a>
+                            <button type="submit" class="btn btn-primary">
+                                <i class="fas fa-save me-1"></i> Create Booking
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script>
+        (function () {
+            'use strict';
+            var forms = document.querySelectorAll('.needs-validation');
+            Array.prototype.slice.call(forms)
+                .forEach(function (form) {
+                    form.addEventListener('submit', function (event) {
+                        if (!form.checkValidity()) {
+                            event.preventDefault();
+                            event.stopPropagation();
+                        }
+                        form.classList.add('was-validated');
+                    }, false);
+                });
+        })();
+    </script>
+}

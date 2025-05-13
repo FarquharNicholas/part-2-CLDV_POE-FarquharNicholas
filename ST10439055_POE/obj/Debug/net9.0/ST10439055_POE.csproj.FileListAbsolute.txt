@@ -1,0 +1,1082 @@
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\appsettings.json
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\ST10439055_POE.staticwebassets.runtime.json
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\ST10439055_POE.staticwebassets.endpoints.json
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\ST10439055_POE.exe
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\ST10439055_POE.deps.json
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\ST10439055_POE.runtimeconfig.json
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\ST10439055_POE.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\ST10439055_POE.pdb
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Humanizer.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\System.Data.SqlClient.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\runtimes\win-arm64\native\sni.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\runtimes\win-x64\native\sni.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\runtimes\win-x86\native\sni.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\ST10439055_POE.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\ST10439055_POE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\ST10439055_POE.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\ST10439055_POE.AssemblyInfo.cs
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\ST10439055_POE.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\ST10439055_POE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\ST10439055_POE.RazorAssemblyInfo.cache
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\ST10439055_POE.RazorAssemblyInfo.cs
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\scopedcss\bundle\ST10439055_POE.styles.css
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\scopedcss\projectbundle\ST10439055_POE.bundle.scp.css
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\ihgl0aj98b-b9sayid5wm.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\vuir1476ac-61n19gt1b8.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\dutji4aquz-xtxxf3hu2r.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\uvbl4kccle-bqjiyaj88i.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\x4o78jj4qc-c2jlpeoesf.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\di8kelxoh5-erw9l3u2r3.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\3f80lr15jt-aexeepp0ev.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\vngy7gixxg-d7shbmvgxk.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\6ngyve7430-ausgxo2sd3.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\ez6c9rjdds-k8d9w2qqmf.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\rnzujp16fk-cosvhxvwiu.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\zwe9tsfsxn-ub07r2b239.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\2jq37ktiw3-fvhpjtyr6v.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\o2esg46632-b7pk76d08c.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\a6yhap16z5-fsbi9cje9m.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\djyntcjzhr-rzd6atqjts.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\tlq4nuhr1e-ee0r1s7dh0.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\am4vu7f6gg-dxx9fxp4il.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\rqxd97f57u-jd9uben2k1.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\hgbv59v2p4-khv3u5hwcm.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\qret995n7y-r4e9w2rdcm.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\w47yjd08qe-lcd1t2u6c8.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\9tqdjzwb1c-c2oey78nd0.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\7m9elsdvac-tdbxkamptv.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\jqm658mgyk-j5mq2jizvt.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\lui0ckg9dx-06098lyss8.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\jzmgrp8zzg-nvvlpmu67g.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\saukdxxoy7-s35ty4nyc5.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\upuv9t07sd-pj5nd1wqec.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\wmptjzmxzs-46ein0sx1k.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\i41r1ch4ll-v0zj4ognzu.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\zt3xxc331c-37tfw0ft22.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\nghdx8c143-hrwsygsryq.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\rna8psg98a-pk9g2wxc8p.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\95ae77xhqe-ft3s53vfgj.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\74w2ceueb6-6cfz1n2cew.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\9zibzmr7nw-6pdc2jztkx.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\ib48ro4fgh-493y06b0oq.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\104dvpgu82-iovd86k7lj.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\udvi45v52d-vr1egmr9el.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\dczbasfep1-kbrnm935zg.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\wno3if1gsu-jj8uyg4cgr.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\cuiog8dtiy-y7v9cxd14o.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\3f4oqkbj4j-notf2xhcfb.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\wdptxkhvnj-h1s4sie4z3.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\tbjsas1l06-63fj8s7r0e.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\rz1k2yj7ub-0j3bgjxly4.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\o4t62qc6wu-47otxtyo56.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\xgoaa83vrp-4v8eqarkd7.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\w75d6gcn0g-356vix0kms.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\bcacjeugy6-83jwlth58m.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\c6srxx1eg4-mrlpezrjn3.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\nd809xzclh-lzl9nlhx6b.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\k8a4a9pqeo-ag7o75518u.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\bjd8yoxjbk-x0q3zqp4vz.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\5v2s2gw3cg-0i3buxo5is.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\zz13k2da5d-o1o13a6vjx.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\702oflgv7p-ttgo8qnofa.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\x3k2t391hr-2z0ns9nrw6.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\oenb0408sd-muycvpuwrr.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\pc1y9r8lgo-87fc7y1x7t.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\7aese8fzy8-mlv21k5csn.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\wwjpsnxpms-d80e5v2w8r.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\compressed\w7vwr5wba0-d80e5v2w8r.gz
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\staticwebassets\msbuild.ST10439055_POE.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\staticwebassets\msbuild.ST10439055_POE.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\staticwebassets\msbuild.build.ST10439055_POE.props
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ST10439055_POE.props
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ST10439055_POE.props
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\ST104390.9C2C7B1F.Up2Date
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\ST10439055_POE.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\refint\ST10439055_POE.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\ST10439055_POE.pdb
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\ST10439055_POE.genruntimeconfig.cache
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\ref\ST10439055_POE.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Polly.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\bin\Debug\net9.0\Polly.Extensions.Http.dll
+C:\Users\lab_services_student\Desktop\CLDV6211_POE\ST10439055_POE\ST10439055_POE\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\appsettings.json
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\ST10439055_POE.staticwebassets.endpoints.json
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\ST10439055_POE.staticwebassets.runtime.json
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\ST10439055_POE.exe
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\ST10439055_POE.deps.json
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\ST10439055_POE.runtimeconfig.json
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\ST10439055_POE.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\ST10439055_POE.pdb
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Humanizer.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Polly.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\Polly.Extensions.Http.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\System.Data.SqlClient.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\runtimes\win-arm64\native\sni.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\runtimes\win-x64\native\sni.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\runtimes\win-x86\native\sni.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\ST10439055_POE.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\ST10439055_POE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\ST10439055_POE.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\ST10439055_POE.AssemblyInfo.cs
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\ST10439055_POE.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\ST10439055_POE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\ST10439055_POE.RazorAssemblyInfo.cache
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\ST10439055_POE.RazorAssemblyInfo.cs
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\ST10439055_POE.sourcelink.json
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\scopedcss\bundle\ST10439055_POE.styles.css
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\scopedcss\projectbundle\ST10439055_POE.bundle.scp.css
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\ihgl0aj98b-b9sayid5wm.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\vuir1476ac-61n19gt1b8.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\dutji4aquz-xtxxf3hu2r.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\uvbl4kccle-bqjiyaj88i.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\x4o78jj4qc-c2jlpeoesf.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\di8kelxoh5-erw9l3u2r3.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\3f80lr15jt-aexeepp0ev.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\vngy7gixxg-d7shbmvgxk.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\6ngyve7430-ausgxo2sd3.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\ez6c9rjdds-k8d9w2qqmf.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\rnzujp16fk-cosvhxvwiu.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\zwe9tsfsxn-ub07r2b239.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\2jq37ktiw3-fvhpjtyr6v.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\o2esg46632-b7pk76d08c.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\a6yhap16z5-fsbi9cje9m.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\djyntcjzhr-rzd6atqjts.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\tlq4nuhr1e-ee0r1s7dh0.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\am4vu7f6gg-dxx9fxp4il.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\rqxd97f57u-jd9uben2k1.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\hgbv59v2p4-khv3u5hwcm.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\qret995n7y-r4e9w2rdcm.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\w47yjd08qe-lcd1t2u6c8.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\9tqdjzwb1c-c2oey78nd0.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\7m9elsdvac-tdbxkamptv.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\jqm658mgyk-j5mq2jizvt.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\lui0ckg9dx-06098lyss8.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\jzmgrp8zzg-nvvlpmu67g.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\saukdxxoy7-s35ty4nyc5.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\upuv9t07sd-pj5nd1wqec.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\wmptjzmxzs-46ein0sx1k.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\i41r1ch4ll-v0zj4ognzu.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\zt3xxc331c-37tfw0ft22.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\nghdx8c143-hrwsygsryq.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\rna8psg98a-pk9g2wxc8p.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\95ae77xhqe-ft3s53vfgj.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\74w2ceueb6-6cfz1n2cew.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\9zibzmr7nw-6pdc2jztkx.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\ib48ro4fgh-493y06b0oq.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\104dvpgu82-iovd86k7lj.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\udvi45v52d-vr1egmr9el.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\dczbasfep1-kbrnm935zg.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\wno3if1gsu-jj8uyg4cgr.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\cuiog8dtiy-y7v9cxd14o.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\3f4oqkbj4j-notf2xhcfb.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\wdptxkhvnj-h1s4sie4z3.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\tbjsas1l06-63fj8s7r0e.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\rz1k2yj7ub-0j3bgjxly4.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\o4t62qc6wu-47otxtyo56.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\xgoaa83vrp-4v8eqarkd7.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\w75d6gcn0g-356vix0kms.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\bcacjeugy6-83jwlth58m.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\c6srxx1eg4-mrlpezrjn3.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\nd809xzclh-lzl9nlhx6b.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\k8a4a9pqeo-ag7o75518u.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\bjd8yoxjbk-x0q3zqp4vz.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\5v2s2gw3cg-0i3buxo5is.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\zz13k2da5d-o1o13a6vjx.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\702oflgv7p-ttgo8qnofa.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\x3k2t391hr-2z0ns9nrw6.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\oenb0408sd-muycvpuwrr.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\pc1y9r8lgo-87fc7y1x7t.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\7aese8fzy8-mlv21k5csn.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\wwjpsnxpms-d80e5v2w8r.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\compressed\w7vwr5wba0-d80e5v2w8r.gz
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\staticwebassets\msbuild.ST10439055_POE.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\staticwebassets\msbuild.ST10439055_POE.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\staticwebassets\msbuild.build.ST10439055_POE.props
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ST10439055_POE.props
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ST10439055_POE.props
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\ST104390.9C2C7B1F.Up2Date
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\ST10439055_POE.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\refint\ST10439055_POE.dll
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\ST10439055_POE.pdb
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\ST10439055_POE.genruntimeconfig.cache
+C:\Users\lab_services_student\Desktop\part-1-poe-FarquharNicholas - Copy\ST10439055_POE\obj\Debug\net9.0\ref\ST10439055_POE.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\appsettings.json
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\ST10439055_POE.staticwebassets.endpoints.json
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\ST10439055_POE.staticwebassets.runtime.json
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\ST10439055_POE.exe
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\ST10439055_POE.deps.json
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\ST10439055_POE.runtimeconfig.json
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\ST10439055_POE.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\ST10439055_POE.pdb
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Humanizer.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Polly.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Polly.Extensions.Http.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\System.Data.SqlClient.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\runtimes\win-arm64\native\sni.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\runtimes\win-x64\native\sni.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\runtimes\win-x86\native\sni.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\ST10439055_POE.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\ST10439055_POE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\ST10439055_POE.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\ST10439055_POE.AssemblyInfo.cs
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\ST10439055_POE.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\ST10439055_POE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\ST10439055_POE.RazorAssemblyInfo.cache
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\ST10439055_POE.RazorAssemblyInfo.cs
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\ST10439055_POE.sourcelink.json
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\scopedcss\bundle\ST10439055_POE.styles.css
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\scopedcss\projectbundle\ST10439055_POE.bundle.scp.css
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\ihgl0aj98b-b9sayid5wm.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\vuir1476ac-61n19gt1b8.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\dutji4aquz-xtxxf3hu2r.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\uvbl4kccle-bqjiyaj88i.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\x4o78jj4qc-c2jlpeoesf.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\di8kelxoh5-erw9l3u2r3.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\3f80lr15jt-aexeepp0ev.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\vngy7gixxg-d7shbmvgxk.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\6ngyve7430-ausgxo2sd3.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\ez6c9rjdds-k8d9w2qqmf.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\rnzujp16fk-cosvhxvwiu.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\zwe9tsfsxn-ub07r2b239.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\2jq37ktiw3-fvhpjtyr6v.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\o2esg46632-b7pk76d08c.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\a6yhap16z5-fsbi9cje9m.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\djyntcjzhr-rzd6atqjts.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\tlq4nuhr1e-ee0r1s7dh0.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\am4vu7f6gg-dxx9fxp4il.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\rqxd97f57u-jd9uben2k1.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\hgbv59v2p4-khv3u5hwcm.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\qret995n7y-r4e9w2rdcm.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\w47yjd08qe-lcd1t2u6c8.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\9tqdjzwb1c-c2oey78nd0.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\7m9elsdvac-tdbxkamptv.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\jqm658mgyk-j5mq2jizvt.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\lui0ckg9dx-06098lyss8.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\jzmgrp8zzg-nvvlpmu67g.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\saukdxxoy7-s35ty4nyc5.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\upuv9t07sd-pj5nd1wqec.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\wmptjzmxzs-46ein0sx1k.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\i41r1ch4ll-v0zj4ognzu.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\zt3xxc331c-37tfw0ft22.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\nghdx8c143-hrwsygsryq.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\rna8psg98a-pk9g2wxc8p.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\95ae77xhqe-ft3s53vfgj.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\74w2ceueb6-6cfz1n2cew.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\9zibzmr7nw-6pdc2jztkx.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\ib48ro4fgh-493y06b0oq.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\104dvpgu82-iovd86k7lj.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\udvi45v52d-vr1egmr9el.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\dczbasfep1-kbrnm935zg.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\wno3if1gsu-jj8uyg4cgr.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\cuiog8dtiy-y7v9cxd14o.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\3f4oqkbj4j-notf2xhcfb.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\wdptxkhvnj-h1s4sie4z3.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\tbjsas1l06-63fj8s7r0e.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\rz1k2yj7ub-0j3bgjxly4.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\o4t62qc6wu-47otxtyo56.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\xgoaa83vrp-4v8eqarkd7.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\w75d6gcn0g-356vix0kms.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\bcacjeugy6-83jwlth58m.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\c6srxx1eg4-mrlpezrjn3.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\nd809xzclh-lzl9nlhx6b.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\k8a4a9pqeo-ag7o75518u.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\bjd8yoxjbk-x0q3zqp4vz.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\5v2s2gw3cg-0i3buxo5is.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\zz13k2da5d-o1o13a6vjx.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\702oflgv7p-ttgo8qnofa.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\x3k2t391hr-2z0ns9nrw6.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\oenb0408sd-muycvpuwrr.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\pc1y9r8lgo-87fc7y1x7t.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\7aese8fzy8-mlv21k5csn.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\wwjpsnxpms-d80e5v2w8r.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\compressed\w7vwr5wba0-d80e5v2w8r.gz
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\staticwebassets\msbuild.ST10439055_POE.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\staticwebassets\msbuild.ST10439055_POE.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\staticwebassets\msbuild.build.ST10439055_POE.props
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ST10439055_POE.props
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ST10439055_POE.props
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\ST104390.9C2C7B1F.Up2Date
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\ST10439055_POE.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\refint\ST10439055_POE.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\ST10439055_POE.pdb
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\ST10439055_POE.genruntimeconfig.cache
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\obj\Debug\net9.0\ref\ST10439055_POE.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Azure.Storage.Blobs.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\Azure.Storage.Common.dll
+C:\Users\lab_services_student\Desktop\part-2-poe-FarquharNicholas\ST10439055_POE\bin\Debug\net9.0\System.IO.Hashing.dll

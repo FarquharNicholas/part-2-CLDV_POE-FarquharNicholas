@@ -1,0 +1,68 @@
+﻿@model ST10439055_POE.Models.Event
+@{
+    ViewData["Title"] = "Create Event";
+}
+
+<div class="container mt-3">
+    <div class="row">
+        <div class="col-md-6 mx-auto">
+            <div class="card">
+                <div class="card-header bg-success text-white">
+                    <h3 class="mb-0"><i class="fas fa-calendar-plus me-2"></i>Create New Event</h3>
+                </div>
+                <div class="card-body">
+                    <partial name="_AlertMessages" />
+                    <form asp-action="Create">
+                        <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+
+                        <div class="form-group mb-3">
+                            <label asp-for="EventName" class="form-label text-success">
+                                <i class="fas fa-tag me-1"></i>Event Name
+                            </label>
+                            <input asp-for="EventName" class="form-control" />
+                            <span asp-validation-for="EventName" class="text-danger small"></span>
+                        </div>
+
+                        <div class="form-group mb-3">
+                            <label asp-for="EventDate" class="form-label text-success">
+                                <i class="fas fa-clock me-1"></i>Event Date
+                            </label>
+                            <input asp-for="EventDate" class="form-control" />
+                            <span asp-validation-for="EventDate" class="text-danger small"></span>
+                        </div>
+
+                        <div class="form-group mb-3">
+                            <label asp-for="Description" class="form-label text-success">
+                                <i class="fas fa-align-left me-1"></i>Description
+                            </label>
+                            <input asp-for="Description" class="form-control" />
+                            <span asp-validation-for="Description" class="text-danger small"></span>
+                        </div>
+
+                        <div class="form-group mb-4">
+                            <label asp-for="VenueId" class="form-label text-success">
+                                <i class="fas fa-map-marker-alt me-1"></i>Venue
+                            </label>
+                            <select asp-for="VenueId" class="form-control" asp-items="ViewBag.VenueId"></select>
+                        </div>
+
+                        <div class="d-flex justify-content-between">
+                            <a asp-action="Index" class="btn btn-outline-secondary">
+                                <i class="fas fa-arrow-left me-1"></i> Back to List
+                            </a>
+                            <button type="submit" class="btn btn-success">
+                                <i class="fas fa-save me-1"></i> Create
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

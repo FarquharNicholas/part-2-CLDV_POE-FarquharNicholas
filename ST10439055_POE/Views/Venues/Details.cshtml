@@ -1,0 +1,74 @@
+﻿@model ST10439055_POE.Models.Venue
+@{
+    ViewData["Title"] = "Venue Details";
+}
+
+<div class="container mt-4">
+    <div class="row">
+        <div class="col-md-8 mx-auto">
+            <div class="card shadow">
+                <div class="card-header bg-primary text-white">
+                    <h4 class="mb-0">
+                        <i class="fas fa-info-circle me-2"></i>@ViewData["Title"]
+                    </h4>
+                </div>
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <dl class="row">
+                                <dt class="col-sm-4">@Html.DisplayNameFor(model => model.VenueName)</dt>
+                                <dd class="col-sm-8">@Html.DisplayFor(model => model.VenueName)</dd>
+
+                                <dt class="col-sm-4">@Html.DisplayNameFor(model => model.Location)</dt>
+                                <dd class="col-sm-8">@Html.DisplayFor(model => model.Location)</dd>
+
+                                <dt class="col-sm-4">@Html.DisplayNameFor(model => model.Capacity)</dt>
+                                <dd class="col-sm-8">@Html.DisplayFor(model => model.Capacity)</dd>
+
+                                <dt class="col-sm-4">Image URL</dt>
+                                <dd class="col-sm-8">
+                                    <a href="@Model.ImageUrl" target="_blank" class="text-truncate d-inline-block" style="max-width: 200px;">
+                                        @Model.ImageUrl
+                                    </a>
+                                </dd>
+                            </dl>
+                        </div>
+
+                        <div class="col-md-6">
+                            @if (!string.IsNullOrEmpty(Model.ImageUrl))
+                            {
+                                <div class="text-center">
+                                    <p class="fw-bold">Venue Image</p>
+                                    <img src="@Model.ImageUrl" alt="Venue Image" class="img-fluid rounded border" style="max-height: 300px;" />
+                                    <div class="mt-2">
+                                        <a href="@Model.ImageUrl" target="_blank" class="btn btn-sm btn-outline-primary">
+                                            <i class="fas fa-external-link-alt me-1"></i> Open Full Image
+                                        </a>
+                                    </div>
+                                </div>
+                            }
+                            else
+                            {
+                                <div class="alert alert-info">No image available for this venue</div>
+                            }
+                        </div>
+                    </div>
+
+                    <div class="d-flex justify-content-between mt-4">
+                        <a asp-action="Index" class="btn btn-outline-secondary">
+                            <i class="fas fa-arrow-left me-1"></i> Back to List
+                        </a>
+                        <div>
+                            <a asp-action="Edit" asp-route-id="@Model.VenueId" class="btn btn-primary me-2">
+                                <i class="fas fa-edit me-1"></i> Edit
+                            </a>
+                            <a asp-action="Delete" asp-route-id="@Model.VenueId" class="btn btn-danger">
+                                <i class="fas fa-trash-alt me-1"></i> Delete
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

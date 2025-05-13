@@ -1,0 +1,81 @@
+﻿@model IEnumerable<ST10439055_POE.Models.Event>
+
+@{
+    ViewData["Title"] = "Event Management";
+}
+
+<div class="container mt-4">
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <div>
+            <h1 class="text-success mb-1">
+                <i class="fas fa-calendar-alt me-2"></i>Event Management
+            </h1>
+            <span class="badge bg-success">@Model.Count() Events</span>
+        </div>
+        <a asp-action="Create" class="btn btn-success">
+            <i class="fas fa-plus me-1"></i> Create New
+        </a>
+    </div>
+
+
+    <div class="card shadow-sm">
+        <div class="card-header bg-success text-white">
+            <h5 class="mb-0"><i class="fas fa-list me-2"></i>Current Events</h5>
+        </div>
+        <div class="card-body p-0">
+            <div class="table-responsive">
+                <table class="table table-hover table-striped mb-0">
+                    <thead class="bg-light">
+                        <tr>
+                            <th>
+                                <i class="fas fa-star me-1"></i> Event Name
+                            </th>
+                            <th>
+                                <i class="fas fa-calendar-day me-1"></i> Event Date
+                            </th>
+                            <th>
+                                <i class="fas fa-map-marker-alt me-1"></i> Venue
+                            </th>
+                            <th class="text-end">Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td class="align-middle">@item.EventName</td>
+                                <td class="align-middle">
+                                    <span class="badge bg-success-subtle text-success border border-success">
+                                        @item.EventDate.ToString("f")
+                                    </span>
+                                </td>
+                                <td class="align-middle">@item.Venue?.VenueName</td>
+                                <td class="text-end align-middle">
+                                    @{
+                                        var id = item.GetType().GetProperty("Id")?.GetValue(item)
+                                        ?? item.GetType().GetProperty("EventID")?.GetValue(item)
+                                        ?? item.GetType().GetProperty("EventId")?.GetValue(item);
+                                    }
+                                    <div class="btn-group" role="group">
+                                        <a asp-action="Edit" asp-route-id="@id" class="btn btn-sm btn-outline-success">
+                                            <i class="fas fa-edit"></i> Edit
+                                        </a>
+                                        <a asp-action="Details" asp-route-id="@id" class="btn btn-sm btn-outline-info">
+                                            <i class="fas fa-info-circle"></i> Details
+                                        </a>
+                                        <a asp-action="Delete" asp-route-id="@id" class="btn btn-sm btn-outline-danger">
+                                            <i class="fas fa-trash-alt"></i> Delete
+                                        </a>
+                                    </div>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="card-footer text-muted">
+            <small>Showing @Model.Count() events</small>
+        </div>
+    </div>
+</div>

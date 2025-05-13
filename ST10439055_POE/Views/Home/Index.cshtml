@@ -1,0 +1,223 @@
+﻿@{
+    ViewData["Title"] = "EventEase Dashboard";
+}
+
+<div class="container dashboard-container">
+   
+    <div class="header text-center">
+        <h1 class="display-4">EventEase Dashboard</h1>
+    </div>
+
+    
+    <div class="summary-cards">
+        <div class="summary-card booking-card">
+            <div class="card-content">
+                <h2>Bookings</h2>
+                <div class="card-value" data-count="@ViewBag.BookingsCount">0</div>
+                <a asp-controller="Bookings" asp-action="Index" class="view-all-btn">
+                    View All <i class="fas fa-arrow-right"></i>
+                </a>
+            </div>
+        </div>
+
+        <div class="summary-card event-card">
+            <div class="card-content">
+                <h2>Events</h2>
+                <div class="card-value" data-count="@ViewBag.EventsCount">0</div>
+                <a asp-controller="Events" asp-action="Index" class="view-all-btn">
+                    View All <i class="fas fa-arrow-right"></i>
+                </a>
+            </div>
+        </div>
+
+        <div class="summary-card venue-card">
+            <div class="card-content">
+                <h2>Venues</h2>
+                <div class="card-value" data-count="@ViewBag.VenuesCount">0</div>
+                <a asp-controller="Venues" asp-action="Index" class="view-all-btn">
+                    View All <i class="fas fa-arrow-right"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    
+    .dashboard-container {
+        padding: 1rem;
+        max-width: 1200px;
+        margin: 0 auto;
+        background-color: #fff;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        min-height: auto; 
+    }
+
+    
+    .header {
+        margin-bottom: 1rem; 
+    }
+
+        .header h1 {
+            font-family: 'Roboto', Arial, sans-serif;
+            font-size: 2rem; 
+            font-weight: 500;
+            color: #202124;
+            margin: 0;
+        }
+
+   
+    .summary-cards {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+        gap: 1rem; 
+        width: 100%;
+    }
+
+    .summary-card {
+        background: #fff;
+        border-radius: 12px;
+        padding: 1rem; 
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+        .summary-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+        }
+
+    .booking-card {
+        border-left: 4px solid #3498db;
+        background: linear-gradient(135deg, rgba(52, 152, 219, 0.1) 0%, rgba(44, 62, 80, 0.1) 100%);
+    }
+
+    .event-card {
+        border-left: 4px solid #2ecc71;
+        background: linear-gradient(135deg, rgba(46, 204, 113, 0.1) 0%, rgba(39, 174, 96, 0.1) 100%);
+    }
+
+    .venue-card {
+        border-left: 4px solid #e74c3c;
+        background: linear-gradient(135deg, rgba(231, 76, 60, 0.1) 0%, rgba(192, 57, 43, 0.1) 100%);
+    }
+
+    .card-content {
+        text-align: center;
+    }
+
+        .card-content h2 {
+            font-family: 'Roboto', Arial, sans-serif;
+            font-size: 1.125rem;
+            font-weight: 500;
+            color: #202124;
+            margin-bottom: 0.75rem;
+        }
+
+    .card-value {
+        font-family: 'Roboto', Arial, sans-serif;
+        font-size: 2.25rem; 
+        font-weight: 700;
+        color: #202124;
+        margin: 0.5rem 0 0.75rem;
+    }
+
+    .view-all-btn {
+        display: inline-flex;
+        align-items: center;
+        font-family: 'Roboto', Arial, sans-serif;
+        font-size: 0.875rem;
+        font-weight: 500;
+        color: #fff;
+        text-decoration: none;
+        padding: 0.4rem 0.9rem;
+        border-radius: 4px;
+        background: #4285f4;
+        transition: background 0.2s ease, transform 0.2s ease;
+    }
+
+    .booking-card .view-all-btn {
+        background: #3498db;
+    }
+
+    .event-card .view-all-btn {
+        background: #2ecc71;
+    }
+
+    .venue-card .view-all-btn {
+        background: #e74c3c;
+    }
+
+    .view-all-btn:hover {
+        background: #3b78e7;
+        transform: translateX(2px);
+    }
+
+    .booking-card .view-all-btn:hover {
+        background: #2c80b9;
+    }
+
+    .event-card .view-all-btn:hover {
+        background: #27ae60;
+    }
+
+    .venue-card .view-all-btn:hover {
+        background: #c0392b;
+    }
+
+    .view-all-btn i {
+        margin-left: 0.4rem;
+        font-size: 0.7rem;
+    }
+
+
+    {
+        padding: 0.5rem;
+    }
+
+    .summary-cards {
+        grid-template-columns: 1fr;
+        gap: 0.75rem;
+    }
+
+    .summary-card {
+        padding: 0.75rem;
+    }
+
+    .card-value {
+        font-size: 2rem;
+    }
+
+    .header h1 {
+        font-size: 1.75rem;
+    }
+
+    }
+</style>
+
+@section Scripts {
+    <script>
+        
+        $(document).ready(function () {
+            $('.card-value').each(function () {
+                var $this = $(this);
+                var target = parseInt($this.attr('data-count'));
+
+               
+                $({ count: 0 }).animate({ count: target }, {
+                    duration: 2000,
+                    easing: 'swing',
+                    step: function (now) {
+                        var displayVal = (now >= target - 0.5) ? target : Math.floor(now);
+                        $this.text(displayVal);
+                    },
+                    complete: function () {
+                        $this.text(target);
+                    }
+                });
+            });
+        });
+    </script>
+}
